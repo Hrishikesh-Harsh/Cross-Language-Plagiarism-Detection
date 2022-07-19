@@ -1,7 +1,7 @@
 ## Cross-Language-Plagiarism-Detection
 
 1. Code.ipynb contains the entire code required to implement this tool
-2. The 3 ZIP Files are required for the executions procedure
+2. The 3 ZIP Files are required for the executions procedure [they currently contain only 5 sample Technical Papers]
 3. There are a few prerequisites or steps to follow before the User can start off with the Plagiarism Check:
     - The User should ensure that the whatever Documents they want to have as a Corpus/Source, they must be contained in a zip file in their original (untranslated)            versions
     - The User should ensure that the whatever Documents they want to have as a Corpus/Source, they must be contained in another zip file in their derived (translated)         versions 
